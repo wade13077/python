@@ -16,4 +16,4 @@ python 專題-景點影像分析
 ![3](https://user-images.githubusercontent.com/109900729/224648399-a9ddc9b7-f9d7-4097-ad1d-18b142d26690.PNG)
 
 
-感謝各位 thankS
+感謝各位 thanks
